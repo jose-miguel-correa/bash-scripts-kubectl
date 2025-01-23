@@ -1,3 +1,5 @@
+# Scripts de bash
+
 Este script va a la carpeta de deploys del namespace compartidoms de coquena1, 
 lee el nombre de cada archivo, corta la extensión .json, y con ese nombre obtenido
 genera un listado. Este listado es recorrido por el comando de kubectl para ir a buscar
